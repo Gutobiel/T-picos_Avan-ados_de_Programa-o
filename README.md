@@ -1,2 +1,2 @@
-# T-picos_Avan-ados_de_Programa-o
+# Tópicos Avançados de programação
 Tópicos avançados de programação em java
